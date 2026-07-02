@@ -1,0 +1,5 @@
+condition,acceptance_when_ai_correct,acceptance_when_ai_incorrect,verification_on_incorrect_trials,calibration_gap
+No explanation + automatic intervention,0.72,0.55,0.18,0.17
+No explanation + user-controllable intervention,0.77,0.48,0.29,0.29
+Evidence + uncertainty + automatic intervention,0.84,0.39,0.37,0.45
+Evidence + uncertainty + user-controllable intervention,0.88,0.31,0.52,0.57
