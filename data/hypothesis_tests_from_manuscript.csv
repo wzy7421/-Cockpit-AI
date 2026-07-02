@@ -1,0 +1,6 @@
+hypothesis,test,result,interpretation
+H1,Explanation -> perceived transparency,"F(1,188) = 54.62, p < .001, partial eta squared = .23",Supported
+H2,Explanation with uncertainty -> trust calibration,"F(1,188) = 31.45, p < .001, partial eta squared = .14",Supported
+H3,User control -> perceived control and acceptance,"F(1,188) = 38.17, p < .001, partial eta squared = .17",Supported
+H4,Perceived control mediation,"indirect b = .19, 95% CI [.11, .29]",Supported
+H5,Explanation x AI correctness on overreliance,"F(1,188) = 8.72, p = .004, partial eta squared = .04",Supported
