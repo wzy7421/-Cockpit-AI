@@ -1,0 +1,5 @@
+condition,perceived_transparency_mean,perceived_control_mean,autonomy_threat_mean,privacy_concern_mean,privacy_concern_sd,perceived_care_mean,perceived_care_sd,workload_mean,workload_sd
+No explanation + automatic intervention,2.64,3.08,3.61,3.1,0.78,3.02,0.74,3.42,0.69
+No explanation + user-controllable intervention,2.71,3.78,2.94,3.03,0.76,3.36,0.7,3.55,0.72
+Evidence + uncertainty + automatic intervention,4.02,3.55,3.02,3.33,0.8,3.74,0.68,3.68,0.71
+Evidence + uncertainty + user-controllable intervention,4.15,4.29,2.31,3.28,0.79,4.06,0.62,3.62,0.7
