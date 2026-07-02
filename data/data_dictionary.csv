@@ -1,0 +1,33 @@
+variable,description,file
+participant_id,Synthetic participant identifier; no real identity is included.,participants/trials
+condition_code,"Experimental condition code: NE_AUTO, NE_CTRL, EU_AUTO, or EU_CTRL.",participants/trials
+condition_label,Human-readable condition label.,participants
+explanation_condition,No explanation or evidence-plus-uncertainty explanation.,participants/trials
+intervention_authority,Automatic intervention or user-controllable intervention.,participants/trials
+age,Synthetic age generated to match the manuscript-level participant profile.,participants
+gender,Synthetic gender category used only for example-data structure.,participants
+valid_driving_license,All synthetic participants are coded as licensed drivers.,participants
+prior_adas_use,Synthetic prior ADAS-use indicator matched to condition-level counts.,participants
+baseline_trust_automation,"Synthetic baseline trust in automation score, 1-5.",participants
+driving_confidence,"Synthetic driving confidence score, 1-5.",participants
+perceived_transparency,"Synthetic scale score, 1-5.",participants
+perceived_control,"Synthetic scale score, 1-5.",participants
+autonomy_threat,"Synthetic scale score, 1-5.",participants
+privacy_concern,"Synthetic scale score, 1-5.",participants
+perceived_care,"Synthetic scale score, 1-5.",participants
+workload,"Synthetic workload score, 1-5.",participants
+trust_calibration_index,Synthetic participant-level behavioral alignment index.,participants
+overall_acceptance_rate,Synthetic participant-level acceptance proportion.,participants
+trial_id,Synthetic trial identifier.,trials
+scenario_block,Fatigue or stress driving block.,trials
+block_trial,Trial number within the fatigue or stress block.,trials
+ai_inferred_state,AI-presented affective-state inference.,trials
+ai_correct,Whether the scripted AI inference matched the scenario and cue pattern.,trials
+accepted_intervention,Whether the intervention was accepted or allowed to continue.,trials
+verified_before_response,Whether the participant opened the evidence/status panel before responding.,trials
+response,"accept, postpone, reject, allow_to_continue, or override.",trials
+response_time_ms,Synthetic response time in milliseconds.,trials
+lane_deviation_m,Synthetic post-prompt lane deviation metric.,trials
+speed_variability_kmh,Synthetic post-prompt speed variability metric.,trials
+confidence_displayed,Displayed confidence value in explanation conditions; blank otherwise.,trials
+data_type,Always synthetic_example.,trials
