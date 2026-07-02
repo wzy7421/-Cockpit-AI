@@ -1,0 +1,3 @@
+Data Availability Statement
+
+The synthetic example data, variable dictionary, manuscript-level aggregate summaries, and analysis scripts that support the transparent documentation of this study are openly available in this repository. The participant-level and trial-level CSV files are synthetic example data generated from the manuscript description and aggregate results. Original records that may contain potentially identifiable information, such as simulator logs linked to individuals, facial/video data, or physiological traces, are not publicly shared to protect participant privacy and comply with institutional ethics requirements.
